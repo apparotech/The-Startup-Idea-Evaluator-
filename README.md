@@ -77,7 +77,19 @@ flutter run
 A short demo video showcasing the app features is available here:
 
 https://drive.google.com/file/d/1RkwAjEQGgxCmE_F9Rt9YvUAsOv4GDnMP/view?usp=sharing
+---
+## 📸 Screenshots
 
+| **Light Mode – Leaderboard** | **Light Mode – Startup Ideas** | **Light Mode – Submit Idea** |
+|------------------------------|--------------------------------|------------------------------|
+|![Light Mode – Leaderboard](https://github.com/user-attachments/assets/05ac05f7-c15a-4acc-9efa-03ae9d72b989) | ![Light Mode – Startup Ideas](https://github.com/user-attachments/assets/040f77e2-043d-49c1-a4fb-5be867918fc1) | ![Light Mode – Submit Idea](https://github.com/user-attachments/assets/ca798970-81a5-4da6-baec-c9e85f0c6144) |
+
+
+
+### **Dark Mode**
+| **Leaderboard** | **Startup Ideas** | **Submit Idea** |
+|-----------------|-------------------|-----------------|
+|![Dark Mode – Leaderboard](https://github.com/user-attachments/assets/08453af3-35af-4950-afe4-dff08af63d9f) | ![Dark Mode – Startup Ideas](https://github.com/user-attachments/assets/44dbd338-35aa-4ad8-a0df-c8cf1637a410) | ![Dark Mode – Submit Idea](https://github.com/user-attachments/assets/ace79795-cd1d-4c7c-b010-019e52d5f3ac) |
 
 
 
