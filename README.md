@@ -72,6 +72,13 @@ flutter pub get
 Run the app:
 flutter run
 
+---
+🎥 Video Walkthrough
+A short demo video showcasing the app features is available here:
+
+https://drive.google.com/file/d/1RkwAjEQGgxCmE_F9Rt9YvUAsOv4GDnMP/view?usp=sharing
+
+
 
 
 
